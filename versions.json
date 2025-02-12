@@ -1,0 +1,14 @@
+{
+    "latest": "1.0.2",
+    "versions": {
+        "1.0.2": [
+            "🐛 Fixed actions"
+        ],
+        "1.0.1": [
+            "🐛 Fixed names"
+        ],
+        "1.0.0": [
+            "✨ Initial release of Postal service system"
+        ]
+    }
+}
